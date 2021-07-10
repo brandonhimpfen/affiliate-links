@@ -6,9 +6,6 @@
 
 Company | Short Link | Original Link
 ------------ | ------------- | -------------
-23andMe| http://bit.ly/3deq7Ra | https://refer.23andme.com/s/brandonhimpfen
-SmugMug | http://bit.ly/3dc8NfB | https://secure.smugmug.com/signup?Coupon=PznLMb
-Buy Me A Coffee | https://bit.ly/3bivI68 | https://buymeacoff.ee/?via=brandonhimpfen
-Nightwatch |  |  |
-RankTrackr |  |  |
-DigitalOcean |  |  |
+23andMe| https://tinyurl.com/y4w76rvx | https://refer.23andme.com/s/brandonhimpfen
+Buy Me A Coffee | https://tinyurl.com/zhjey4cy | https://buymeacoff.ee/?via=brandonhimpfen
+DigitalOcean | https://tinyurl.com/d6h9936b | https://m.do.co/c/24dcb0351c53 |
